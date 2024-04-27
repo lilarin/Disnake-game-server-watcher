@@ -1,4 +1,4 @@
-# OnlineDiscordBot
+# Disnake game server watcher
 
 Bot for displaying the online status of your steam game servers.
 
